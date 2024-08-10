@@ -2,7 +2,7 @@
     "conditions": [
       {
         "name": "Thyroid",
-        "imagesrc":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Blood_pressure_monitoring.jpg",
+        "imagesrc":"https://cdn.prod.website-files.com/5e0143c66e14efc18c6f469d/644fe5bf8f79f6a0c8925975_sing%20(8).jpg",
         "symptoms": [
           "Fatigue",
           "Weight gain or loss",
@@ -19,7 +19,7 @@
       },
       {
         "name": "Diabetes",
-        "imagesrc":"diabeties.jpg",
+        "imagesrc":"https://www.verywellhealth.com/thmb/n-WbRnI9e6g9sNNtJTpBKdB5Nuo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/glucose-level-blood-test-1185738340-75b803e23e9a4ce6a550cbf41c3c2972.jpg",
         "symptoms": [
           "Frequent urination",
           "Increased thirst",
@@ -36,7 +36,7 @@
       },
       {
         "name": "High Blood Pressure",
-        "imagesrc":"blood_pressure.jpg",
+        "imagesrc":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Blood_pressure_monitoring.jpg",
         "symptoms": [
           "Headaches",
           "Shortness of breath",
